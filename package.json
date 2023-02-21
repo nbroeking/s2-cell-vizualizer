@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "deck.gl": "8.2.3",
+    "global": "4.3.2",
+    "long": "4.0.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-map-gl": "4.1.2",
+    "react-scripts": "2.1.8",
+    "s2-geometry": "1.2.10"
+  },
+  "keywords": [],
+  "name": "s2-visualizer-forked",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
